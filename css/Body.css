@@ -1,0 +1,662 @@
+/* POsicion de los iconos */
+.bottom{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+
+/* Windows 10 */
+.pruebaT{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+
+.pruebaM{
+    position: absolute;
+    top: 25%;
+    left: 17%;
+}
+
+.b1{
+    position: absolute;
+    top: 80%;
+    right: 8%;
+    width: 15%;
+}
+
+.b2{
+    position: absolute;
+    top: 80%;
+    right: 30%;
+    width: 15%;
+}
+
+.b3{
+    position: absolute;
+    top: 80%;
+    right: 52.5%;
+    width: 15%;
+}
+
+.b4{
+    position: absolute;
+    top: 80%;
+    right: 74.5%;
+    width: 15%;
+}
+
+.boton{
+    position: absolute;
+    top: 80%;
+    right: 5%;
+    width: 20%;
+}
+
+.boton2{
+    position: absolute;
+    top: 80%;
+    right: 27%;
+    width: 20%;
+}
+
+.boton3{
+    position: absolute;
+    top: 80%;
+    right: 50%;
+    width: 20%;
+}
+
+.boton4{
+    position: absolute;
+    top: 80%;
+    right: 72%;
+    width: 20%;
+}
+
+/* WIndows 3.1 */
+
+.pruebaT31{
+    position: absolute;
+    top: -1%;
+    left: 0%;
+    width: 100%;
+    color: aliceblue;
+}
+
+.pruebaM31{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+.b131{
+    position: absolute;
+    top: 71%;
+    right: 7%;
+    width: 15%;
+}
+
+.b231{
+    position: absolute;
+    top: 71%;
+    right: 27%;
+    width: 15%;
+}
+
+.b331{
+    position: absolute;
+    top: 71%;
+    right: 47%;
+    width: 15%;
+}
+
+.b431{
+    position: absolute;
+    top: 71%;
+    right: 67%;
+    width: 15%;
+}
+
+.boton31{
+    position: absolute;
+    top: 70%;
+    right: 7%;
+    width: 15%;
+}
+
+.boton231{
+    position: absolute;
+    top: 70%;
+    right: 27%;
+    width: 15%;
+}
+
+.boton331{
+    position: absolute;
+    top: 70%;
+    right: 47%;
+    width: 15%;
+}
+
+.boton431{
+    position: absolute;
+    top: 70%;
+    right: 67%;
+    width: 15%;
+}
+
+.w311{
+    position: absolute;
+    top: 70%;
+    right: 36%;
+    width: 100%;
+}
+
+.w312{
+    position: absolute;
+    top: 70%;
+    right: 27%;
+    width: 100%;
+}
+
+.w313{
+    position: absolute;
+    top: 70%;
+    right: 17%;
+    width: 100%;
+}
+
+.w314{
+    position: absolute;
+    top: 70%;
+    right: 7%;
+    width: 100%;
+}
+
+/* Windows 9x */
+
+.pruebaT9x{
+    position: absolute;
+    top: 0%;
+    left: 1%;
+    color: aliceblue;
+}
+
+.pruebaM9x{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+.boton9x{
+    position: absolute;
+    top: 72%;
+    right: 2.5%;
+    width: 20%;
+}
+
+.boton29x{
+    position: absolute;
+    top: 72%;
+    right: 25%;
+    width: 20%;
+}
+
+.boton39x{
+    position: absolute;
+    top: 72%;
+    right: 47%;
+    width: 20%;
+}
+
+.boton49x{
+    position: absolute;
+    top: 72%;
+    right: 70%;
+    width: 20%;
+}
+
+.w9x1{
+    position: absolute;
+    top: 72%;
+    right: 37.5%;
+    width: 100%;
+}
+
+.w9x2{
+    position: absolute;
+    top: 72%;
+    right: 25%;
+    width: 100%;
+}
+
+.w9x3{
+    position: absolute;
+    top: 72%;
+    right: 15%;
+    width: 100%;
+}
+
+.w9x4{
+    position: absolute;
+    top: 72%;
+    right: 4%;
+    width: 100%;
+}
+
+/* Windows 2000 */
+
+.pruebaT2000{
+    position: absolute;
+    top: 0%;
+    left: 1%;
+    color: aliceblue;
+}
+
+.pruebaM2000{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+.b12000{
+    position: absolute;
+    top: 80%;
+    right: 4%;
+    width: 15%;
+}
+
+.b22000{
+    position: absolute;
+    top: 80%;
+    right: 27.5%;
+    width: 15%;
+}
+
+.b32000{
+    position: absolute;
+    top: 80%;
+    right: 50.5%;
+    width: 15%;
+}
+
+.b42000{
+    position: absolute;
+    top: 80%;
+    right: 74.5%;
+    width: 15%;
+}
+
+.w20001{
+    position: absolute;
+    top: 75%;
+    right: 38%;
+    width: 100%;
+}
+
+.w20002{
+    position: absolute;
+    top: 75%;
+    right: 27%;
+    width: 100%;
+}
+
+.w20003{
+    position: absolute;
+    top: 75%;
+    right: 16%;
+    width: 100%;
+}
+
+.w20004{
+    position: absolute;
+    top: 75%;
+    right: 4%;
+    width: 100%;
+}
+
+.boton2000{
+    position: absolute;
+    top: 75%;
+    right: 0%;
+    width: 20%;
+}
+
+.boton22000{
+    position: absolute;
+    top: 75%;
+    right: 23.5%;
+    width: 20%;
+}
+
+.boton32000{
+    position: absolute;
+    top: 75%;
+    right: 47%;
+    width: 20%;
+}
+
+.boton42000{
+    position: absolute;
+    top: 75%;
+    right: 70%;
+    width: 20%;
+}
+
+/* WIndows XP */
+.pruebaTxp{
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    color: aliceblue;
+    font-size: 75%;
+}
+
+.pruebaMxp{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-size: 75%;
+}
+
+.b1xp{
+    position: absolute;
+    top: 80%;
+    right: 7%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b2xp{
+    position: absolute;
+    top: 80%;
+    right: 27%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b3xp{
+    position: absolute;
+    top: 80%;
+    right: 47%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b4xp{
+    position: absolute;
+    top: 80%;
+    right: 67%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.wxp1{
+    position: absolute;
+    top: 75%;
+    right: 35%;
+    width: 100%;
+}
+
+.wxp2{
+    position: absolute;
+    top: 75%;
+    right: 25%;
+    width: 100%;
+}
+
+.wxp3{
+    position: absolute;
+    top: 75%;
+    right: 14%;
+    width: 100%;
+}
+
+.wxp4{
+    position: absolute;
+    top: 75%;
+    right: 5%;
+    width: 100%;
+}
+
+.botonxp{
+    position: absolute;
+    top: 75%;
+    right: 7%;
+    width: 15%;
+}
+
+.boton2xp{
+    position: absolute;
+    top: 75%;
+    right: 27%;
+    width: 15%;
+}
+
+.boton3xp{
+    position: absolute;
+    top: 75%;
+    right: 47%;
+    width: 15%;
+}
+
+.boton4xp{
+    position: absolute;
+    top: 75%;
+    right: 67%;
+    width: 15%;
+}
+
+/* Windows 7 */
+
+.pruebaTv7{
+    position: absolute;
+    top: 0%;
+    left: 3%;
+    color: black;
+}
+
+.pruebaMv7{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+.b1v7{
+    position: absolute;
+    top: 80%;
+    right: 7%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b2v7{
+    position: absolute;
+    top: 80%;
+    right: 27%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b3v7{
+    position: absolute;
+    top: 80%;
+    right: 47%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b4v7{
+    position: absolute;
+    top: 80%;
+    right: 67%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.wv71{
+    position: absolute;
+    top: 75%;
+    right: 0%;
+    width: 115%;
+}
+
+.wv72{
+    position: absolute;
+    top: 75%;
+    right: 0%;
+    width: 115%;
+}
+
+.wv73{
+    position: absolute;
+    top: 75%;
+    right: 0%;
+    width: 115%;
+}
+
+.wv74{
+    position: absolute;
+    top: 75%;
+    right: -1%;
+    width: 115%;
+}
+
+.botonv7{
+    position: absolute;
+    top: 75%;
+    right: 7%;
+    width: 15%;
+}
+
+.boton2v7{
+    position: absolute;
+    top: 75%;
+    right: 27%;
+    width: 15%;
+}
+
+.boton3v7{
+    position: absolute;
+    top: 75%;
+    right: 47%;
+    width: 15%;
+}
+
+.boton4v7{
+    position: absolute;
+    top: 75%;
+    right: 67%;
+    width: 15%;
+}
+
+/* Windows 8/8.1 */
+.pruebaT881{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    color: black;
+}
+
+.pruebaM881{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+
+.b1881{
+    position: absolute;
+    top: 80%;
+    right: 7%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b2881{
+    position: absolute;
+    top: 80%;
+    right: 27%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b3881{
+    position: absolute;
+    top: 80%;
+    right: 47%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.b4881{
+    position: absolute;
+    top: 80%;
+    right: 67%;
+    width: 15%;
+    font-size: 75%;
+}
+
+.w8811{
+    position: absolute;
+    top: 77%;
+    right: 0%;
+    width: 115%;
+}
+
+.w8812{
+    position: absolute;
+    top: 77%;
+    right: 0%;
+    width: 115%;
+}
+
+.w8813{
+    position: absolute;
+    top: 77%;
+    right: 0%;
+    width: 115%;
+}
+
+.w8814{
+    position: absolute;
+    top: 77%;
+    right: -1%;
+    width: 115%;
+}
+
+.boton881{
+    position: absolute;
+    top: 77%;
+    right: 7%;
+    width: 15%;
+}
+
+.boton2881{
+    position: absolute;
+    top: 77%;
+    right: 27%;
+    width: 15%;
+}
+
+.boton3881{
+    position: absolute;
+    top: 77%;
+    right: 47%;
+    width: 15%;
+}
+
+.boton4881{
+    position: absolute;
+    top: 77%;
+    right: 67%;
+    width: 15%;
+}
+
+/* Posición de la ventana*/
+
+.relative{
+    position: relative;
+}
+
